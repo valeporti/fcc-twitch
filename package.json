@@ -1,0 +1,20 @@
+{
+  "name": "twitch",
+  "version": "1.0.0",
+  "description": "Shows some of the online and offline streming users",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "twitch",
+    "freecodecamp",
+    "valeporti"
+  ],
+  "author": "valeporti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
